@@ -1,0 +1,6 @@
+/.venv
+/.idea
+/.ipynb_checkpoints
+./ASL 1.0
+/dataset
+/__pycache__
